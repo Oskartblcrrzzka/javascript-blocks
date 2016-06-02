@@ -1,0 +1,1 @@
+javascript:(function%20()%7Bvar%20s%20=%20document.createElement('script');s.setAttribute('src',%20'https://rawgit.com/Iwotastic/Scratch-Boost/master/src/installer.js');document.body.appendChild(s);%7D)();
